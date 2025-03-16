@@ -1,5 +1,5 @@
 import logging
-import os 11111111
+import os 
 import json
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
